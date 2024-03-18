@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./style.css"?>
+<employees>
+  <employee>
+    <name>John Doe</name>
+    <phones>
+      <phone Type="home">123-456-7890</phone>
+      <phone Type="mobile">987-654-3210</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Main Street</street>
+        <buildingNumber>101</buildingNumber>
+        <region>State</region>
+        <city>Anytown</city>
+        <country>USA</country>
+      </address>
+    </addresses>
+    <email>john.doe@company.com</email>
+  </employee>
+  <employee>
+    <name>Jane Smith</name>
+    <phones>
+      <phone Type="work">555-555-5555</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>second avenue</street>
+        <buildingnumber>202</buildingnumber>
+        <region>california</region>
+        <city>los angeles</city>
+        <country>usa</country>
+      </address>
+    </addresses>
+    <email>jane.smith@company.com</email>
+  </employee>
+  <employee>
+    <name>Michael Brown</name>
+    <phones>
+      <phone Type="mobile">111-222-3333</phone>
+      <phone Type="home">444-555-6666</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>maple street</street>
+        <buildingnumber>303</buildingnumber>
+        <region>texas</region>
+        <city>austin</city>
+        <country>usa</country>
+      </address>
+    </addresses>
+    <email>michael.brown@company.com</email>
+  </employee>
+  <employee>
+    <name>Amanda Miller</name>
+    <phones>
+      <phone Type="work">777-777-7777</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>oak lane</street>
+        <buildingnumber>404</buildingnumber>
+        <region>florida</region>
+        <city>miami</city>
+        <country>usa</country>
+      </address>
+    </addresses>
+    <email>amanda.miller@company.com</email>
+  </employee>
+  <employee>
+    <name>David Williams</name>
+    <phones>
+      <phone Type="mobile">888-888-8888</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>pine boulevard</street>
+        <buildingnumber>505</buildingnumber>
+        <region>new york</region>
+        <city>new york city</city>
+        <country>usa</country>
+      </address>
+    </addresses>
+    <email>david.williams@company.com</email>
+  </employee>
+  <employee>
+    <name>Olivia Jones</name>
+    <phones>
+      <phone Type="work">999-999-9999</phone>
+      <phone Type="home">000-000-0000</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>elm street</street>
+        <buildingnumber>606</buildingnumber>
+        <region>illinois</region>
+        <city>chicago</city>
+        <country>usa</country>
+      </address>
+    </addresses>
+    <email>olivia.jones@company.com</email>
+  </employee>
+</employees>

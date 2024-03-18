@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./style.css"?>
+<libraries>
+  <library>
+    <location>Elm Street, Springfield, USA</location>
+    <description>A historic library with a large collection of rare books.</description>
+    <librarian>John Smith</librarian>
+    <books>
+      <book>
+        <title>Pride and Prejudice</title>
+        <ISBN>978-0140435288</ISBN>
+        <author>Jane Austen</author>
+        <preface>It is a truth universally acknowledged, that a single man in possession of a good
+          fortune, must be in want of a wife.</preface>
+        <parts>
+          <part>
+            <title>Volume I</title>
+            <chapters>
+            </chapters>
+          </part>
+          <part>
+            <title>Volume II</title>
+            <chapters>
+            </chapters>
+          </part>
+        </parts>
+      </book>
+    </books>
+  </library>
+  <library>
+    <location>Ocean Avenue, Beach City, USA</location>
+    <description>A modern library with a focus on technology and learning resources.</description>
+    <librarian>Michael Brown</librarian>
+    <books>
+      <book>
+        <title>The Lord of the Rings</title>
+        <ISBN>978-0547928217</ISBN>
+        <author>J. R. R. Tolkien </author>
+        <preface>Many times the Wise have come to Singil...</preface>
+        <parts>
+          <part>
+            <title>The Fellowship of the Ring</title>
+            <chapters>
+            </chapters>
+          </part>
+        </parts>
+      </book>
+    </books>
+  </library>
+  <library>
+    <location>Maple Street, Harmonyville, USA</location>
+    <description>A small library with a friendly atmosphere and a focus on children's literature.</description>
+    <librarian>Amanda Miller</librarian>
+    <books>
+      <book>
+        <title>The Very Hungry Caterpillar</title>
+        <ISBN>978-0307937317</ISBN>
+        <author>Eric Carle</author>
+        <preface>In the light of the moon, a tiny hole appears in a leaf.</preface>
+        <parts>
+          <part>
+            <title>The Story</title>
+            <chapters>
+              <chapter>
+                <title>Sunday</title>
+                <summary>The Very Hungry Caterpillar eats his way through a variety of foods.</summary>
+                <sections>
+                  <section>On a Monday morning the Very Hungry Caterpillar woke up from his sleep
+                    feeling very hungry.</section>
+                </sections>
+              </chapter>
+            </chapters>
+          </part>
+        </parts>
+      </book>
+    </books>
+  </library>
+  <library>
+    <location>Central Park, New York City, USA</location>
+    <description>A large public library with a vast collection of books and resources.</description>
+    <librarian>David Williams</librarian>
+    <books>
+    </books>
+  </library>
+</libraries>

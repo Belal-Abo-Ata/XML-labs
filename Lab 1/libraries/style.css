@@ -1,0 +1,51 @@
+/* Style for the library element */
+library {
+	display: block;
+	margin-bottom: 20px;
+}
+
+/* Style for the location element */
+library > location {
+	font-weight: bold;
+}
+
+/* Style for the description element */
+library > description {
+	font-style: italic;
+}
+
+/* Style for the librarian element */
+library > librarian {
+	color: #555;
+}
+
+/* Style for the book element */
+library > books > book {
+	display: block;
+	margin-top: 20px;
+}
+
+/* Style for the title of the book */
+library > books > book > title {
+	font-weight: bold;
+}
+
+/* Style for the ISBN of the book */
+library > books > book > ISBN {
+	font-style: italic;
+}
+
+/* Style for the author of the book */
+library > books > book > author {
+	color: #007bff; /* Blue color */
+}
+
+/* Style for the preface of the book */
+library > books > book > preface {
+	margin-top: 10px;
+}
+
+/* Style for the parts of the book */
+library > books > book > parts {
+	display: flex;
+}
